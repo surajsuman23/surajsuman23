@@ -1,6 +1,6 @@
 # Project Portfolio
 
-Three new, AI-assisted reconstructions based on resume project descriptions. The original source files were unavailable. Each repository includes runnable source code, tests, setup instructions and source references. Results belong to the reconstructed implementations.
+A collection of projects in data analysis, machine learning and operating systems. Explore the source code, setup guides, tests and results in each repository.
 
 ## [Diabetes Prediction System](https://github.com/surajsuman23/diabetes-prediction-system)
 
